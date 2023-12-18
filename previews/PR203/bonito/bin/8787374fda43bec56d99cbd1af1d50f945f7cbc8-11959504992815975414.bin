@@ -1,0 +1,139 @@
+í«,jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÄ£subÇßpayloadì»êkí«,jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÄ£subÇßpayloadî»ókí«XjìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÉ£390«eí£390ï£392«eí£392£391«eí£391£subÉ£obs÷h£391ßpayload»fìÇ¥14845538259945501550÷h£390≤569937122417179291÷h£392Ÿßreturn (index) => {
+    const values = __lookup_interpolated('14845538259945501550').value
+    __lookup_interpolated('569937122417179291').notify(values[index - 1])
+}
+Ÿ8/home/runner/work/Bonito.jl/Bonito.jl/src/widgets.jl:257®msg_type°1»!kí«:jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÅ£395«eí£395°5£subÉ£obs÷h£395ßpayload«¬fìÄŸkreturn value=> Bonito.update_node_attribute(document.querySelector('[data-jscall-id="123"]'), 'max', value)ŸQ/home/runner/work/Bonito.jl/Bonito.jl/src/rendering/hyperscript_integration.jl:92®msg_type°1»#kí«:jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÅ£396«eí£396°1£subÉ£obs÷h£396ßpayload«ƒfìÄŸmreturn value=> Bonito.update_node_attribute(document.querySelector('[data-jscall-id="123"]'), 'value', value)ŸQ/home/runner/work/Bonito.jl/Bonito.jl/src/rendering/hyperscript_integration.jl:92®msg_type°1»`kí«,jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÄ£subÇßpayload»fìÅ≥2210490267791961071÷h£391Ÿ¿((node) => {
+    node['oninput'] = (event)=> {
+    __lookup_interpolated('2210490267791961071').notify(parseInt(event.srcElement.value))
+}
+})(document.querySelector('[data-jscall-id="123"]'));Ÿ8/home/runner/work/Bonito.jl/Bonito.jl/src/widgets.jl:272®msg_type°2®msg_type°9»Ykí«,jìŸ$88f61357-c8a7-4a8e-af50-108e9f13dc5dÄ£subÇßpayload»fìÅ≥1443722683030086211Ö°4ì»Èkí«,jìŸ$d62f4881-9e06-42d4-b8ca-3d6430455bd5Ä£subÜ™session_idŸ$d62f4881-9e06-42d4-b8ca-3d6430455bd5®messagesÇßpayloadê®msg_type°9ßreplace¬®msg_type¢12§html»5iì£diví»*iì£diví»Ôiì•styleë⁄–.style_41 {
+  justify-items: legacy;
+  align-items: legacy;
+  height: 300px;
+  display: grid;
+  align-content: normal;
+  grid-gap: 10px;
+  grid-template-rows: none;
+  justify-content: normal;
+  grid-template-columns: none;
+  width: 100%;
+  grid-template-areas: none;
+}
+.style_42 {
+  height: auto;
+  padding: 12px;
+  background-color: silver;
+  box-shadow: 0 4px 8px rgba(0.0, 0.0, 51.0, 0.2);
+  color: white;
+  width: 300px;
+  border-radius: 2px;
+  margin: 2px;
+}
+ÅÆdata-jscall-id£210«iì£divêÅÆdata-jscall-id£211ÅÆdata-jscall-id£209»ìiì£divë»uiì£divî«Niì£divë«iì£divêÅÆdata-jscall-id£202É•class© style_42•style†Ædata-jscall-id£201«Niì£divë«iì£divêÅÆdata-jscall-id£204É•class© style_42•style†Ædata-jscall-id£203«Niì£divë«iì£divêÅÆdata-jscall-id£206É•class© style_42•style†Ædata-jscall-id£205«Niì£divë«iì£divêÅÆdata-jscall-id£208É•class© style_42•style†Ædata-jscall-id£207É•class© style_41•style†Ædata-jscall-id£200ÅÆdata-jscall-id£212É•classØbonito-fragment¢idŸ$d62f4881-9e06-42d4-b8ca-3d6430455bd5Ædata-jscall-id∫subsession-application-dom±dom_node_selector£127«Mkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload¢id£392®msg_type°0«Nkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload°4¢id£396®msg_type°0°1ì»Ùkí«,jìŸ$aab75228-d4bc-41a9-9d2d-0e953ecbcd6cÄ£subÜ™session_idŸ$aab75228-d4bc-41a9-9d2d-0e953ecbcd6c®messagesÇßpayloadê®msg_type°9ßreplace¬®msg_type¢12§html»@iì£diví»*iì£diví»Ôiì•styleë⁄–.style_29 {
+  justify-items: legacy;
+  align-items: legacy;
+  height: 300px;
+  display: grid;
+  align-content: normal;
+  grid-gap: 10px;
+  grid-template-rows: none;
+  justify-content: normal;
+  grid-template-columns: none;
+  width: 100%;
+  grid-template-areas: none;
+}
+.style_30 {
+  height: auto;
+  padding: 12px;
+  background-color: silver;
+  box-shadow: 0 4px 8px rgba(0.0, 0.0, 51.0, 0.2);
+  color: white;
+  width: 300px;
+  border-radius: 2px;
+  margin: 2px;
+}
+ÅÆdata-jscall-id£144«iì£divêÅÆdata-jscall-id£145ÅÆdata-jscall-id£143«üiì£divë«Çiì£divë«Niì£divë«iì£divêÅÆdata-jscall-id£142É•class© style_30•style†Ædata-jscall-id£141É•class© style_29•style†Ædata-jscall-id£140ÅÆdata-jscall-id£146É•classØbonito-fragment¢idŸ$aab75228-d4bc-41a9-9d2d-0e953ecbcd6cÆdata-jscall-id∫subsession-application-dom±dom_node_selector£127«Mkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload¢id£392®msg_type°0«Nkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload°1¢id£396®msg_type°0°5ì»:kí«,jìŸ$a2a94aae-7374-421a-a502-0461b9f87ff1Ä£subÜ™session_idŸ$a2a94aae-7374-421a-a502-0461b9f87ff1®messagesÇßpayloadê®msg_type°9ßreplace¬®msg_type¢12§html»Üiì£diví»*iì£diví»Ôiì•styleë⁄–.style_45 {
+  justify-items: legacy;
+  align-items: legacy;
+  height: 300px;
+  display: grid;
+  align-content: normal;
+  grid-gap: 10px;
+  grid-template-rows: none;
+  justify-content: normal;
+  grid-template-columns: none;
+  width: 100%;
+  grid-template-areas: none;
+}
+.style_46 {
+  height: auto;
+  padding: 12px;
+  background-color: silver;
+  box-shadow: 0 4px 8px rgba(0.0, 0.0, 51.0, 0.2);
+  color: white;
+  width: 300px;
+  border-radius: 2px;
+  margin: 2px;
+}
+ÅÆdata-jscall-id£240«iì£divêÅÆdata-jscall-id£241ÅÆdata-jscall-id£239»‰iì£divë»∆iì£divï«Niì£divë«iì£divêÅÆdata-jscall-id£230É•class© style_46•style†Ædata-jscall-id£229«Niì£divë«iì£divêÅÆdata-jscall-id£232É•class© style_46•style†Ædata-jscall-id£231«Niì£divë«iì£divêÅÆdata-jscall-id£234É•class© style_46•style†Ædata-jscall-id£233«Niì£divë«iì£divêÅÆdata-jscall-id£236É•class© style_46•style†Ædata-jscall-id£235«Niì£divë«iì£divêÅÆdata-jscall-id£238É•class© style_46•style†Ædata-jscall-id£237É•class© style_45•style†Ædata-jscall-id£228ÅÆdata-jscall-id£242É•classØbonito-fragment¢idŸ$a2a94aae-7374-421a-a502-0461b9f87ff1Ædata-jscall-id∫subsession-application-dom±dom_node_selector£127«Mkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload¢id£392®msg_type°0«Nkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload°5¢id£396®msg_type°0°2ì»Ekí«,jìŸ$fc545a8c-6921-4dbf-bb44-cfba3ad1fb18Ä£subÜ™session_idŸ$fc545a8c-6921-4dbf-bb44-cfba3ad1fb18®messagesÇßpayloadê®msg_type°9ßreplace¬®msg_type¢12§html»ëiì£diví»*iì£diví»Ôiì•styleë⁄–.style_33 {
+  justify-items: legacy;
+  align-items: legacy;
+  height: 300px;
+  display: grid;
+  align-content: normal;
+  grid-gap: 10px;
+  grid-template-rows: none;
+  justify-content: normal;
+  grid-template-columns: none;
+  width: 100%;
+  grid-template-areas: none;
+}
+.style_34 {
+  height: auto;
+  padding: 12px;
+  background-color: silver;
+  box-shadow: 0 4px 8px rgba(0.0, 0.0, 51.0, 0.2);
+  color: white;
+  width: 300px;
+  border-radius: 2px;
+  margin: 2px;
+}
+ÅÆdata-jscall-id£162«iì£divêÅÆdata-jscall-id£163ÅÆdata-jscall-id£161«iì£divë«”iì£diví«Niì£divë«iì£divêÅÆdata-jscall-id£158É•class© style_34•style†Ædata-jscall-id£157«Niì£divë«iì£divêÅÆdata-jscall-id£160É•class© style_34•style†Ædata-jscall-id£159É•class© style_33•style†Ædata-jscall-id£156ÅÆdata-jscall-id£164É•classØbonito-fragment¢idŸ$fc545a8c-6921-4dbf-bb44-cfba3ad1fb18Ædata-jscall-id∫subsession-application-dom±dom_node_selector£127«Mkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload¢id£392®msg_type°0«Nkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload°2¢id£396®msg_type°0°3ì»òkí«,jìŸ$ecaa22a7-5e33-47a9-a36d-65d85f92dd77Ä£subÜ™session_idŸ$ecaa22a7-5e33-47a9-a36d-65d85f92dd77®messagesÇßpayloadê®msg_type°9ßreplace¬®msg_type¢12§html»‰iì£diví»*iì£diví»Ôiì•styleë⁄–.style_37 {
+  justify-items: legacy;
+  align-items: legacy;
+  height: 300px;
+  display: grid;
+  align-content: normal;
+  grid-gap: 10px;
+  grid-template-rows: none;
+  justify-content: normal;
+  grid-template-columns: none;
+  width: 100%;
+  grid-template-areas: none;
+}
+.style_38 {
+  height: auto;
+  padding: 12px;
+  background-color: silver;
+  box-shadow: 0 4px 8px rgba(0.0, 0.0, 51.0, 0.2);
+  color: white;
+  width: 300px;
+  border-radius: 2px;
+  margin: 2px;
+}
+ÅÆdata-jscall-id£184«iì£divêÅÆdata-jscall-id£185ÅÆdata-jscall-id£183»Biì£divë»$iì£divì«Niì£divë«iì£divêÅÆdata-jscall-id£178É•class© style_38•style†Ædata-jscall-id£177«Niì£divë«iì£divêÅÆdata-jscall-id£180É•class© style_38•style†Ædata-jscall-id£179«Niì£divë«iì£divêÅÆdata-jscall-id£182É•class© style_38•style†Ædata-jscall-id£181É•class© style_37•style†Ædata-jscall-id£176ÅÆdata-jscall-id£186É•classØbonito-fragment¢idŸ$ecaa22a7-5e33-47a9-a36d-65d85f92dd77Ædata-jscall-id∫subsession-application-dom±dom_node_selector£127«Mkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload¢id£392®msg_type°0«Nkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÉßpayload°3¢id£396®msg_type°0⁄ÇBonito.fetch_binary('bonito/bin/6b196792902622ee9331ea38d8c44c692205e538-14871521022578900971.bin').then(binary => {
+    const statemap = __lookup_interpolated('1443722683030086211')
+    console.log(statemap)
+    const observables = Bonito.decode_binary(binary, false);
+    Bonito.onany(observables, (states) => {
+        console.log(states)
+        // messages to send for this state of that observable
+        const messages = statemap[states]
+        // not all states trigger events
+        // so some states won't have any messages recorded
+        if (messages){
+            messages.forEach(Bonito.process_message)
+        }
+    })
+})
+Ÿ7/home/runner/work/Bonito.jl/Bonito.jl/src/export.jl:144®msg_type°2«Fkí«-jìŸ$a5b45a6d-0f42-43c1-8e79-93bccfcaea38Ä§rootÇßpayloadê®msg_type°9®msg_type°9
